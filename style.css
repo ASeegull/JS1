@@ -1,0 +1,42 @@
+.container {
+    margin-top: 70px;
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+
+h2, p {
+    text-align: center;
+    clear: both;
+    font-size: 28px;
+}
+
+#converter, #fortuneTelling {
+position: relative;
+    height: 200px;
+}
+
+p
+
+.task1 img {
+    left: 70px;
+}
+.task2 img {
+    left: 120px;
+}
+
+span {
+    text-transform: uppercase;
+}
+
+img {
+    width: 300px;
+    position: absolute;
+    left: 50px;
+}
+
+img:hover {
+    cursor: pointer;
+}
